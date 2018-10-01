@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/bin/Debug/netcoreapp2.0/Profolio.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/bin/Debug/netcoreapp2.0/Profolio.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/bin/Debug/netcoreapp2.0/Profolio.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/bin/Debug/netcoreapp2.0/Profolio.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/bin/Debug/netcoreapp2.0/Profolio.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/obj/Debug/netcoreapp2.0/Profolio.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/obj/Debug/netcoreapp2.0/Profolio.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/obj/Debug/netcoreapp2.0/Profolio.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/obj/Debug/netcoreapp2.0/Profolio.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/obj/Debug/netcoreapp2.0/Profolio.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/Profolio/obj/Debug/netcoreapp2.0/Profolio.pdb

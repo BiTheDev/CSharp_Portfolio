@@ -1,0 +1,52 @@
+#top{
+    padding: 5px;
+    display: block;
+    width:30%;
+    height:80px;
+    margin-left:40%;
+}
+p {
+    display: inline;
+}
+hr{
+    display:inline;
+    border: 1px black solid !important;
+    margin:0 5px !important;
+}
+a{
+    display: inline;
+}
+
+h3{
+    text-align: center;
+}
+
+#project_list{
+    padding: 10px !important;
+    width:70% !important;
+    overflow: scroll !important;
+    border:1px solid black;
+    margin-left:15% !important;
+    height:250px !important;
+}
+
+.img{
+    width:10% !important;
+    height:80px;
+    display: inline-block;
+    border:1px red solid !important;
+}
+
+.text{
+    width:80% !important;
+    height:100px !important;
+    display: inline-block !important;
+}
+.project p{
+    display: block !important;
+    width:100% !important;
+}
+
+.project h5{
+    display: block !important;
+}

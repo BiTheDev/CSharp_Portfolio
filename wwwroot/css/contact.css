@@ -1,0 +1,52 @@
+#top{
+    padding: 5px;
+    display: block;
+    width:30%;
+    height:80px;
+    margin-left:40%;
+}
+p {
+    display: inline;
+}
+hr{
+    display:inline;
+    border: 1px black solid !important;
+    margin:0 5px !important;
+}
+a{
+    display: inline;
+}
+
+h3{
+    text-align: center;
+}
+
+#left {
+    display: inline-block;
+    width:25% !important;
+    margin-left:25% !important;
+}
+
+#right{
+    display: inline-block;
+    vertical-align: top !important;
+    width: 30% !important;
+    /* border: 1px solid red !important; */
+
+}
+form{
+    display: block !important;
+    width:80% !important;
+    margin-left:10% !important;
+}
+#left p{
+    display: block !important;
+}
+
+#right label, input{
+    display: block !important;
+}
+
+.btn-primary{
+    display: block !important;
+}

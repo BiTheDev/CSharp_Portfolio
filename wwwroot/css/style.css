@@ -1,0 +1,46 @@
+#top{
+    padding: 5px;
+    display: block;
+    width:30%;
+    height:80px;
+    margin-left:40%;
+}
+p {
+    display: inline;
+}
+hr{
+    display:inline;
+    border: 1px black solid !important;
+    margin:0 5px !important;
+}
+a{
+    display: inline;
+}
+
+#me{
+    display:inline-block;
+    width:40%;
+
+}
+
+h3{
+    margin-left:42% !important;
+}
+
+#me div{
+    width:30% !important;
+    height:185px !important;
+    border: 1px gray solid !important;
+    margin-left:35%;
+}
+
+#me p{
+    display: block;
+    text-align: center;
+}
+
+#Bio{
+    margin-left:5% !important;
+    display: inline-block;
+    width:40%;
+}
